@@ -1,0 +1,15 @@
+C:\Users\Svein\Desktop\Programmation\veille\loop\csharp\exo05\bin\Debug\net7.0\exo05.exe
+C:\Users\Svein\Desktop\Programmation\veille\loop\csharp\exo05\bin\Debug\net7.0\exo05.deps.json
+C:\Users\Svein\Desktop\Programmation\veille\loop\csharp\exo05\bin\Debug\net7.0\exo05.runtimeconfig.json
+C:\Users\Svein\Desktop\Programmation\veille\loop\csharp\exo05\bin\Debug\net7.0\exo05.dll
+C:\Users\Svein\Desktop\Programmation\veille\loop\csharp\exo05\bin\Debug\net7.0\exo05.pdb
+C:\Users\Svein\Desktop\Programmation\veille\loop\csharp\exo05\obj\Debug\net7.0\exo05.csproj.AssemblyReference.cache
+C:\Users\Svein\Desktop\Programmation\veille\loop\csharp\exo05\obj\Debug\net7.0\exo05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Svein\Desktop\Programmation\veille\loop\csharp\exo05\obj\Debug\net7.0\exo05.AssemblyInfoInputs.cache
+C:\Users\Svein\Desktop\Programmation\veille\loop\csharp\exo05\obj\Debug\net7.0\exo05.AssemblyInfo.cs
+C:\Users\Svein\Desktop\Programmation\veille\loop\csharp\exo05\obj\Debug\net7.0\exo05.csproj.CoreCompileInputs.cache
+C:\Users\Svein\Desktop\Programmation\veille\loop\csharp\exo05\obj\Debug\net7.0\exo05.dll
+C:\Users\Svein\Desktop\Programmation\veille\loop\csharp\exo05\obj\Debug\net7.0\refint\exo05.dll
+C:\Users\Svein\Desktop\Programmation\veille\loop\csharp\exo05\obj\Debug\net7.0\exo05.pdb
+C:\Users\Svein\Desktop\Programmation\veille\loop\csharp\exo05\obj\Debug\net7.0\exo05.genruntimeconfig.cache
+C:\Users\Svein\Desktop\Programmation\veille\loop\csharp\exo05\obj\Debug\net7.0\ref\exo05.dll

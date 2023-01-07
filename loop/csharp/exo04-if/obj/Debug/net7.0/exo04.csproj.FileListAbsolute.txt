@@ -1,0 +1,15 @@
+C:\Users\Svein\Desktop\Programmation\veille\loop\csharp\exo04\obj\Debug\net7.0\exo04.csproj.AssemblyReference.cache
+C:\Users\Svein\Desktop\Programmation\veille\loop\csharp\exo04\obj\Debug\net7.0\exo04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Svein\Desktop\Programmation\veille\loop\csharp\exo04\obj\Debug\net7.0\exo04.AssemblyInfoInputs.cache
+C:\Users\Svein\Desktop\Programmation\veille\loop\csharp\exo04\obj\Debug\net7.0\exo04.AssemblyInfo.cs
+C:\Users\Svein\Desktop\Programmation\veille\loop\csharp\exo04\obj\Debug\net7.0\exo04.csproj.CoreCompileInputs.cache
+C:\Users\Svein\Desktop\Programmation\veille\loop\csharp\exo04\bin\Debug\net7.0\exo04.exe
+C:\Users\Svein\Desktop\Programmation\veille\loop\csharp\exo04\bin\Debug\net7.0\exo04.deps.json
+C:\Users\Svein\Desktop\Programmation\veille\loop\csharp\exo04\bin\Debug\net7.0\exo04.runtimeconfig.json
+C:\Users\Svein\Desktop\Programmation\veille\loop\csharp\exo04\bin\Debug\net7.0\exo04.dll
+C:\Users\Svein\Desktop\Programmation\veille\loop\csharp\exo04\bin\Debug\net7.0\exo04.pdb
+C:\Users\Svein\Desktop\Programmation\veille\loop\csharp\exo04\obj\Debug\net7.0\exo04.dll
+C:\Users\Svein\Desktop\Programmation\veille\loop\csharp\exo04\obj\Debug\net7.0\refint\exo04.dll
+C:\Users\Svein\Desktop\Programmation\veille\loop\csharp\exo04\obj\Debug\net7.0\exo04.pdb
+C:\Users\Svein\Desktop\Programmation\veille\loop\csharp\exo04\obj\Debug\net7.0\exo04.genruntimeconfig.cache
+C:\Users\Svein\Desktop\Programmation\veille\loop\csharp\exo04\obj\Debug\net7.0\ref\exo04.dll
